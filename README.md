@@ -17,7 +17,7 @@ Breaking down the walls between cutting-edge AI and real-world results. I'm not 
 ## 🔧 The Arsenal
 
 - **AI Wizardry**: Groq LPU Integration, Custom LLM Implementation, Prompt Engineering
-- **Development**: API Sorcery, Low-Code Magic (Bubble.io), HTML5/CSS, JavaScript
+- **Development**: API Sorcery, Low-Code Magic (Bubble.io), HTML5/CSS, JavaScript, Python, Typescript, Next.js
 - **Power Tools**: Adobe Creative Suite, PowerBI, Stripe, Real-world Database Design
 - **Analysis**: Qualtrics, LookerStudio (because data should tell stories)
 - **Marketing**: Marketo, HubSpot, Social Strategy That Actually Works
